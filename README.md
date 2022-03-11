@@ -2,6 +2,8 @@
 Sebuah script untuk share postingan Facebook
 Skrip hasil rikod><
 Untuk penginstalan nya⚡
+
+
 $ pkg update && pkg upgrade
 
 $ pkg install python
